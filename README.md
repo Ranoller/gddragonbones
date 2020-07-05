@@ -1,6 +1,12 @@
 # GDDragonBones Plugin
 Plugin module for Godot Game Engine to use DragonBones
 
+Forks:
+
+To compile with godot 2.0 to 3.0 use the original repo:https://github.com/sanja-sa/gddragonbones ( *needed to compile 2.0* )
+To compile with godot 3.0 to 3.2 you can use this repo: https://github.com/Ranoller/gddragonbones (you are here!)
+To compile with godot 3.0 to 4.0 after vulkan merge use: https://github.com/mauville-technologies/godot-dragonbones  (current maintained repo)
+
 ## Links
 * Homepage Godot: https://godotengine.org
 * Homepage DragonBones: http://dragonbones.com
